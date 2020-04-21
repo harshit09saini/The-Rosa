@@ -565,7 +565,7 @@ footer {
     }
 
     .footer-content-about {
-        max-width: 51.3rem
+        max-width: 51.3rem;
         margin: 0 auto 5.4rem;
     }
 
@@ -585,7 +585,7 @@ footer {
     }
 
     .newsletter-btn {
-        margin-left: 7rem;
+        margin-left: 6rem;
     }
 }
 
